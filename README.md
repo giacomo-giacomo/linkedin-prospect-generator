@@ -4,7 +4,8 @@ This repository contains a two-phase Python solution for scraping target company
 
 The core idea is simple: **High-quality data fuels effective personalized outreach.** 
 
-[Image of Selenium web scraping architecture]
+<img width="3000" height="1852" alt="example" src="https://github.com/user-attachments/assets/1e624527-2181-4cb6-ba9b-a49f2893db7f" />
+
 
 ## 💡 Beyond the Demo: From Prospects to Leads
 
