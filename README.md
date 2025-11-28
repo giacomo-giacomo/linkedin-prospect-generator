@@ -49,18 +49,6 @@ This engine is designed to minimize risk and maximize data quality by dividing t
 
 ### Configuration (`.env` File)
 
-Create a file named **`.env`** in the root directory and fill in your LinkedIn credentials and search parameters:
+Create a file named **`.env`** in the root directory and fill in your LinkedIn credentials and search parameters.
 
-```env
-# LinkedIn Account Credentials
-LINKEDIN_USERNAME="your_email@example.com"
-LINKEDIN_PASSWORD="your_password"
-
-# --- PHASE 1 CONFIGURATION ---
-SEARCH_KEYWORD="Software House"
-GEO_IDS='["103350119", "102890719"]'
-PHASE1_OUTPUT_FILE="prospects_raw.csv"
-
-# --- PHASE 2 CONFIGURATION ---
-PHASE2_INPUT_FILE="prospects_raw.csv"
-PHASE2_OUTPUT_FILE="prospects_processed.csv"
+### Now, you're ready to launch the scripts!
