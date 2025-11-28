@@ -1,0 +1,17 @@
+# LinkedIn Account Credentials
+LINKEDIN_USERNAME=""
+LINKEDIN_PASSWORD=""
+
+# --- PHASE 1 CONFIGURATION ---
+# Search Keywords (e.g., "Software House")
+SEARCH_KEYWORD="software house"
+# Geographical IDs for filtering (e.g., ["103350119", "102890719"] for Italy and Milan)
+GEO_IDS='["103350119", "102890719"]'
+# Output file name for Phase 1
+PHASE1_OUTPUT_FILE="prospects_raw.csv"
+
+# --- PHASE 2 CONFIGURATION ---
+# Input file name for Phase 2 (must match PHASE1_OUTPUT_FILE)
+PHASE2_INPUT_FILE="prospects_raw.csv"
+# Output file name for Phase 2
+PHASE2_OUTPUT_FILE="prospects_processed.csv"
